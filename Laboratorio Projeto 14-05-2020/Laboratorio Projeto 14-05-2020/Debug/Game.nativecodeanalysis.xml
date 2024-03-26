@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\kikon\OneDrive\Desktop\universidade\1 ano\2 semestere\laboratorio\Laboratorio Projeto 14-05-2020\Laboratorio Projeto 14-05-2020\</FILEPATH>
+      <FILENAME>Game.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::GameSore' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@HHVplayer@@@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Game::GameSore</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
